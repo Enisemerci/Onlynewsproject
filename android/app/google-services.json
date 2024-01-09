@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "21209372993",
+    "project_id": "onlynews-f56e4",
+    "storage_bucket": "onlynews-f56e4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:21209372993:android:602c84c7c0d1633a0129c0",
+        "android_client_info": {
+          "package_name": "com.example.onlynews"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAvu_MrFVVvWKQxteZY-vTLVfwtW7RyVvg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
